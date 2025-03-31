@@ -241,4 +241,4 @@ void termina_gioco(){
 
 
 
-} ciobo
+} 
