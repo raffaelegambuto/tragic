@@ -25,4 +25,5 @@ struct Mago {
   	struct Carta* campo[4];
 };
 
-beli carinello
+non passerò l'exam
+
