@@ -25,4 +25,4 @@ struct Mago {
   	struct Carta* campo[4];
 };
 
-beli carin
+beli carinello
