@@ -103,7 +103,6 @@ int imposta_gioco(){
 	fgets(mago2.nome_mago, 256, stdin);
 	
 	
-	//scegli_classe(&mago1);
   	//scegli_classe(&mago2);
 	
 	mago1.inizio_mazzo = NULL;    //mago non ha ancora carte nel mazzo
@@ -242,4 +241,4 @@ void termina_gioco(){
 
 
 
-} 
+} ciao
