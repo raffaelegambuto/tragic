@@ -25,5 +25,4 @@ struct Mago {
   	struct Carta* campo[4];
 };
 
-non passerò l'exam
-
+sono genio
