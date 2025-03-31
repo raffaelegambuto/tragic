@@ -242,4 +242,4 @@ void termina_gioco(){
 
 
 
-} cosa mi stampa
+} 
