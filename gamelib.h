@@ -24,3 +24,4 @@ struct Mago {
   	struct Carta* mano[6];
   	struct Carta* campo[4];
 }; belin
+
