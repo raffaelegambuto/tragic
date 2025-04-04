@@ -23,5 +23,4 @@ struct Mago {
   //struct Carta* fine_mazzo; //plast
   	struct Carta* mano[6];
   	struct Carta* campo[4];
-}; belin
-
+}; 
